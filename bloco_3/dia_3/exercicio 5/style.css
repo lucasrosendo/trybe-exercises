@@ -1,15 +1,3 @@
-.list-orden {
-  background-color: yellow;
-}
-
-.list-orden li.par:hover {
-  color: green;
-}
-
-li.primo:hover {
-  text-transform: uppercase;
-}
-
 /* - Faça todas as tags Header (h1, h2...) possuírem cor de fonte vermelha e, se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida.
 
 
