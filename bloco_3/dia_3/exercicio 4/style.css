@@ -1,0 +1,10 @@
+div:hover {
+  border: red;
+  border-style: outset;
+}
+#divG {
+  padding: 50px;
+}
+.impar {
+  font-style: italic;
+}
